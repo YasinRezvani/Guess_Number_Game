@@ -1,7 +1,7 @@
 # Guess_Number_Game
 The gane of guess the number between 1 to 10 with 2 mode wuth computer and with user
 # How Work 
-In the filehave to file computer and user guess
+In the repo have two python file the name computer and user guess
 ## user guess
 #### First open the user guess file and computer have number 1 to 10 and you have guess the number and fill the this input() for example:
 > Guess a number between 1 and 10: 7  
@@ -31,3 +31,8 @@ In the filehave to file computer and user guess
 > │ --The computer guess your Number 7 correctly, in 5 times-- │  
 > ╰────────────────────────────────────────────────────────────╯  
 # Demo:tada:
+## user guess
+![demo user guess](https://user-images.githubusercontent.com/77124662/128964714-8373c864-068a-4fb9-9440-2ec9d483ea44.PNG)
+## computer guess
+![demo computer guess](https://user-images.githubusercontent.com/77124662/128964742-23242864-4e72-46dd-84e5-5223cf3c7ca8.PNG)
+
