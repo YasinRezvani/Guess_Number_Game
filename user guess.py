@@ -21,6 +21,7 @@ def guess_user(x):
     table.rows.append([f"--You have guessed the number {random_num} correctly in {count} times"])
     table.columns.header = ["You Win"]
     print(table)
+    input()
 
 guess_user(10)
 

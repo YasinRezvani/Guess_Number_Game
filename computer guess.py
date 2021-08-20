@@ -26,6 +26,7 @@ def computer_guess(x):
     table.rows.append([f"--The computer guess your Number {guess_computer} correctly, in {count} times--"])        
     table.columns.header = ["Computer Win"]
     print(table)
+    input()
 
 computer_guess(10)        
 
