@@ -1,5 +1,10 @@
 # Guess_Number_Game
 The gane of guess the number between 1 to 10 with 2 mode wuth computer and with user
+# Install the requirements
+First you should install the requirements:
+```
+$ pip install beautifultable 
+```
 # How Work 
 In the repo have two python file the name computer and user guess
 ## user guess
