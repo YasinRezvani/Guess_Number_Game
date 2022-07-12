@@ -3,7 +3,7 @@ The game of guess the number between 1 to 10 with 2 mode with computer and user 
 # Install the requirements
 First you should install the requirements:
 ```
-$ pip install beautifultable 
+pip install beautifultable
 ```
 # Demo :tada:
 ### User guess
