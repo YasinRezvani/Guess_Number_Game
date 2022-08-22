@@ -1,5 +1,5 @@
 # Guess_Number_Game
-The game of guess the number between 1 to 10 with 2 mode with computer and user in CLI program 
+The game of guessing the number between 1 to 10 with 2 modes with computer and user in CLI program. 
 # Install the requirements
 First you should install the requirements:
 ```
